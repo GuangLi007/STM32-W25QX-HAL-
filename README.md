@@ -1,0 +1,2 @@
+# STM32-W25QX-HAL-
+这个是用于W25QX的STM32 HAL库驱动，经测试可在F429IGT6上正常运行
